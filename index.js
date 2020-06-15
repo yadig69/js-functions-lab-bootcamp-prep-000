@@ -30,4 +30,4 @@ function holidayCountdown(holiday, days) {
 console.log(happyHolidays())
 console.log(happyHolidaysTo(name))
 console.log(happyCustomHolidayTo(holiday, name))
-console.log()
+console.log(holidayCountdown(holiday, days))
