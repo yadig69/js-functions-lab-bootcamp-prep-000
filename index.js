@@ -10,6 +10,7 @@ console.log(`I have ${1 + 1} pets`)
 
 const name = "Greg"
 const holiday = "Indepence day"
+const days = 11
 
 function happyHolidays() {
   return "Happy holidays!"
@@ -30,4 +31,4 @@ function holidayCountdown(holiday, days) {
 console.log(happyHolidays())
 console.log(happyHolidaysTo(name))
 console.log(happyCustomHolidayTo(holiday, name))
-console.log(holidayCountdown(` ${6 + 5} ${holiday}`))
+console.log(holidayCountdown(holiday, days))
