@@ -23,8 +23,8 @@ function happyCustomHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
 
-// function holidayCountdown(holiday, days) {
-//   return `It's ${days} days until ${holiday}!`
-//
-//
+function holidayCountdown(holiday, days) {
+  return `It's ${days} days until ${holiday}!`
+}
+
 console.log(happyCustomHolidayTo(`Happy ${holiday}, ${name}!`))
