@@ -16,4 +16,3 @@ function happyCustomHolidayTo(date, name) {
 }
 
 // function holidayCountdown()
-
