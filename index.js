@@ -11,11 +11,11 @@ const holidayCountdown = (holiday, days) => `It's ${days} days until ${holiday}!
 // function happyHolidays() {
 //   console.log("Happy holidays!")
 // }
-// 
+//
 // function happyHolidaysTo(name) {
 //   return `Happy holidays, ${name}!`
 // }
-// 
+//
 // function happyCustomHolidayTo(holiday, name) {
 //   return `Happy ${holiday}, ${name}!`
 // }
@@ -24,4 +24,4 @@ const holidayCountdown = (holiday, days) => `It's ${days} days until ${holiday}!
 //   return `It's ${days} days until ${holiday}!`
 //
 //
-console.log("happyCustomHolidayTo")
+console.log(happyCustomHolidayTo(`Happy ${holiday}, ${name}!`))
