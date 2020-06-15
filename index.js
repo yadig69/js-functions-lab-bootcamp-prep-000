@@ -28,6 +28,6 @@ function holidayCountdown(holiday, days) {
 }
 
 console.log(happyHolidays())
-console.log(happyCustomHolidayTo((`${holiday}, ${name}!`)))
+console.log(happyCustomHolidayTo(`${holiday}, ${name}!`))
 console.log()
 console.log()
