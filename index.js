@@ -9,7 +9,7 @@ console.log(`I have ${1 + 1} pets`)
 // const holidayCountdown = (holiday, days) => `It's ${days} days until ${holiday}!`;
 
 function happyHolidays() {
-  return "Happy holidays!"
+  console.log("Happy holidays!")
 }
 
 function happyHolidaysTo(name) {
