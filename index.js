@@ -12,7 +12,7 @@ const name = "Greg"
 const holiday = "Indepence day"
 
 function happyHolidays() {
-  console.log("Happy holidays!")
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo(name) {
