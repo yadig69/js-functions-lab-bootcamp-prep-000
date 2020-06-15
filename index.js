@@ -24,4 +24,4 @@ function happyCustomHolidayTo(holiday, name) {
 //   return `It's ${days} days until ${holiday}!`
 //
 //
-// console.log("happyCustomHolidayTo")
+console.log("happyCustomHolidayTo")
