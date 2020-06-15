@@ -8,6 +8,8 @@ console.log(`I have ${1 + 1} pets`)
 // const happyHolidayTo = (holiday, name) => `Happy ${holiday}, ${name}!`;
 // const holidayCountdown = (holiday, days) => `It's ${days} days until ${holiday}!`;
 
+const name = "Greg"
+const holiday = "Indepence day"
 function happyHolidays() {
   console.log("Happy holidays!")
 }
