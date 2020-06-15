@@ -10,6 +10,7 @@ console.log(`I have ${1 + 1} pets`)
 
 const name = "Greg"
 const holiday = "Indepence day"
+
 function happyHolidays() {
   console.log("Happy holidays!")
 }
