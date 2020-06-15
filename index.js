@@ -11,7 +11,7 @@ function happyHolidaysTo(greg) {
   return `Happy holidays, ${name}!`
 }
 
-function happyCustomHolidayTo("date", "name") {
+function happyCustomHolidayTo(date, name) {
   return `Happy ${holiday}, ${name}!`
 }
 
